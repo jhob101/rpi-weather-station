@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 /weatherhat-python/
 /bme280-python/
+.idea/
